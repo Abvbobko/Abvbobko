@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=electrose)](https://holopin.io/@electrose)
+[![An image of @electrose's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/electrose)](https://holopin.io/@electrose)
